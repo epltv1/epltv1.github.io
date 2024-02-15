@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:1708030967
+#EXT-X-TARGETDURATION:4
+#EXTINF:4,
+https://play1nm.hnyongshun.cn/live/hd-en-4jwq2ghex2nom0v-1708030967.ts?txspiseq=105290492661488697838
+#EXTINF:4,
+https://play1nm.hnyongshun.cn/live/hd-en-4jwq2ghex2nom0v-1708030968.ts?txspiseq=105290492661488697838
+#EXTINF:3.08,
+https://play1nm.hnyongshun.cn/live/hd-en-4jwq2ghex2nom0v-1708030969.ts?txspiseq=105290492661488697838
