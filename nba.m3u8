@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=603705&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://livein1.com:2095/play/live.php?mac=00:1A:79:DC:2F:CC&stream=426122&extension=m3u8
