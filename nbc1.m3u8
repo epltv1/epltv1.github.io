@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://fleximediatv.co.uk:80/play/live.php?mac=00:1A:79:7A:EA:B2&stream=2421573&extension=m3u8
