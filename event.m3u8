@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://honeywatch.net:80/play/live.php?mac=00:1A:79:99:3A:2C&stream=1363944&extension=m3u8
+http://livein1.com:2095/play/live.php?mac=00:1A:79:45:5e:9a&stream=357368&extension=m3u8
