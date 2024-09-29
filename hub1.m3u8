@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://nexon-tv.org:80/play/live.php?mac=00:1A:79:52:B6:FF&stream=1018736&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350557&extension=m3u8
