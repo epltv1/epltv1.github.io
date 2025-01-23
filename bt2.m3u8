@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=821087&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:5F:09:D0&stream=30566&extension=m3u8
