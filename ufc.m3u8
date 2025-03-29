@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:4D:00:E8&stream=247467&extension=m3u8
+http://krooztv.live:80/play/live.php?mac=00:1A:79:7f:bd:d2&stream=2395&extension=m3u8
