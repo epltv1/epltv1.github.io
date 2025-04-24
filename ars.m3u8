@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,NAME="High Quality"
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=821858&extension=ts
+http://imediatv666.store:7777/Leroy/Kwt9BRw/111150
 
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480,NAME="Medium Quality"
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1091514&extension=ts
+http://imediatv666.store:7777/Leroy/Kwt9BRw/123293
 
 #EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=640x360,NAME="Low Quality"
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=894977&extension=ts
+http://imediatv666.store:7777/Leroy/Kwt9BRw/123294
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,NAME="Full HD"
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=894977&extension=ts
+http://imediatv666.store:7777/Leroy/Kwt9BRw/123293
