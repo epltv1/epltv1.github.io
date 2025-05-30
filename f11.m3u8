@@ -1,4 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://livetvbox.live/live/PRveLhgIk9/4UytAfs3Y5/186616.m3u8
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1.000,
+http://livetvbox.live/live/PRveLhgIk9/4UytAfs3Y5/186616.ts?play_token=JAAYTBiiLv
+#EXTINF:1.000,
+http://livetvbox.live/live/PRveLhgIk9/4UytAfs3Y5/186616.ts?play_token=JAAYTBiiLv
+#EXTINF:1.000,
+http://livetvbox.live/live/PRveLhgIk9/4UytAfs3Y5/186616.ts?play_token=JAAYTBiiLv
+#EXTINF:1.000,
+http://livetvbox.live/live/PRveLhgIk9/4UytAfs3Y5/186616.ts?play_token=JAAYTBiiLv
+#EXTINF:1.000,
+http://livetvbox.live/live/PRveLhgIk9/4UytAfs3Y5/186616.ts?play_token=JAAYTBiiLv
