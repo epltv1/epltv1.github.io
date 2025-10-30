@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://restream.globaltv1.net:8080/play/live.php?mac=00:1A:79:05:ED:78&stream=562326&extension=m3u8
