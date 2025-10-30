@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://nonamevos.com:80/play/live.php?mac=00:1A:79:23:B7:39&stream=98466&extension=m3u8
